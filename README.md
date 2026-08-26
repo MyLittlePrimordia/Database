@@ -203,10 +203,13 @@ We welcome contributions for missing models, newly released gear, and measuremen
 - [ ] `driver_config` contains no spaces around the `+` sign.
 - [ ] `tags` array contains 4–12 items, includes exactly one price tier tag, at most one primary tonal tag, and no conflicting pairs.
 
----
+## 🚀 Using with IEM Tool
 
-## ⚖️ License & Disclaimers
+This repository directly powers **[IEM Tool](https://github.com/MyLittlePrimordia/IEM-Tool)**. You do not need to redownload or reinstall the entire application to get newly added models and target curves. To update your local catalog and measurement files:
 
-* **Dataset License:** Open-source under the [MIT License](LICENSE).
-* **Trademark Disclaimer:** All product names, trademarks, and registered trademarks are property of their respective owners. Their use does not imply any affiliation with or endorsement by them.
-* **Measurement Data:** File path pointers reference public acoustic measurement archives, credited to original community measurers (Crinacle, Oratory1990, Super Review, RTINGS, InnerFidelity, and independent acoustic contributors).
+1. Click **Code** → **[Download ZIP](https://github.com/MyLittlePrimordia/Database/archive/refs/heads/main.zip)** on this repository (or `git pull` if cloned).
+2. Extract the archive and copy the following into your **IEM Tool** application folder (overwrite when prompted):
+   * `database.json`
+   * `database.json.gz`
+   * `data/` *(folder containing all raw `.txt` measurement curve files)*
+3. Relaunch **IEM Tool** — all new models, measurement graphs, and EQ targets will load automatically.
