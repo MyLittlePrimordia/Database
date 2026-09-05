@@ -1,0 +1,42 @@
+name: Build Database.zip
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Build Database.zip (max compression)
+        run: |
+          zip -9 -r Database.zip data database.json database.json.gz
+          ls -lh Database.zip
+          unzip -l Database.zip | head -n 30
+
+      - name: Update V1 release with new zip
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Move the V1 tag to the current commit so the release always points at latest
+          git tag -f V1
+          git push -f origin V1
+
+          # Create the release if missing, otherwise overwrite the asset
+          if gh release view V1 >/dev/null 2>&1; then
+            gh release upload V1 Database.zip --clobber
+          else
+            gh release create V1 Database.zip --title "Database" --notes "Latest database catalog. Auto-updated on every push to main."
+          fi
