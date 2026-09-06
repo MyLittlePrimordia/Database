@@ -27243,6 +27243,31 @@
     ]
   },
   {
+    "id": "cvj_bidong",
+    "brand": "CVJ",
+    "model": "Bidong",
+    "variant": "",
+    "year": 2024,
+    "price_usd": 190,
+    "driver_type": "Hybrid",
+    "driver_config": "1DD+6BA",
+    "impedance": 28,
+    "sensitivity": 112,
+    "connector": "QDC",
+    "form_factor": "IEM",
+    "tags": [
+      "Detailed",
+      "Fun",
+      "Limited-Edition",
+      "Punchy Bass",
+      "V-Shaped",
+      "Mid-Tier"
+    ],
+    "files": [
+      "data/SOUNDCHECK39/CVJ BIDONG.txt"
+    ]
+  },
+  {
     "id": "cvj_cs8",
     "brand": "CVJ",
     "model": "CS8",
@@ -36244,6 +36269,32 @@
     ]
   },
   {
+    "id": "faith_audio_labs_e1000",
+    "brand": "Faith Audio Labs",
+    "model": "E1000",
+    "variant": "",
+    "year": 2026,
+    "price_usd": 3800,
+    "driver_type": "DD",
+    "driver_config": "1DD",
+    "impedance": 45,
+    "sensitivity": 115,
+    "connector": "2-pin",
+    "form_factor": "IEM",
+    "tags": [
+      "Balanced",
+      "Detailed",
+      "Reference",
+      "Resolving",
+      "Technical",
+      "Wide-Stage",
+      "Flagship"
+    ],
+    "files": [
+      "data/ELISE AUDIO/FAITH AUDIO LABS E1000.txt"
+    ]
+  },
+  {
     "id": "fat_freq_20_6",
     "brand": "Fat Freq",
     "model": "20.6",
@@ -39475,6 +39526,30 @@
     ],
     "files": [
       "data/HU-FI/FINAL A10000.txt"
+    ]
+  },
+  {
+    "id": "final_audio_a2000",
+    "brand": "Final Audio",
+    "model": "A2000",
+    "variant": "",
+    "year": 2026,
+    "price_usd": 100,
+    "driver_type": "DD",
+    "driver_config": "1DD",
+    "impedance": 19,
+    "sensitivity": 99,
+    "connector": "2-pin",
+    "form_factor": "IEM",
+    "tags": [
+      "Balanced",
+      "Detailed",
+      "Smooth",
+      "Warm",
+      "Mid-Tier"
+    ],
+    "files": [
+      "data/HU-FI/FINAL A2000.txt"
     ]
   },
   {
@@ -77932,6 +78007,30 @@
     ]
   },
   {
+    "id": "noble_audio_savant_ii",
+    "brand": "Noble Audio",
+    "model": "Savant",
+    "variant": "II",
+    "year": 2019,
+    "price_usd": 500,
+    "driver_type": "BA",
+    "driver_config": "2BA",
+    "impedance": 30,
+    "sensitivity": 108,
+    "connector": "2-pin",
+    "form_factor": "IEM",
+    "tags": [
+      "Balanced",
+      "Smooth",
+      "Warm",
+      "Wide-Stage",
+      "Premium"
+    ],
+    "files": [
+      "data/HANGOUT.AUDIO/NOBLE SAVANT 2.txt"
+    ]
+  },
+  {
     "id": "noble_audio_shogun",
     "brand": "Noble Audio",
     "model": "Shogun",
@@ -112621,6 +112720,30 @@
     ]
   },
   {
+    "id": "tgxear_tantalus",
+    "brand": "TGXEAR",
+    "model": "Tantalus",
+    "variant": "",
+    "year": 2023,
+    "price_usd": 200,
+    "driver_type": "DD",
+    "driver_config": "1DD",
+    "impedance": 500,
+    "sensitivity": 86,
+    "connector": "Fixed Cable",
+    "form_factor": "Earbuds (Wired)",
+    "tags": [
+      "Balanced",
+      "Smooth",
+      "Vocal-Focused",
+      "Warm",
+      "Mid-Tier"
+    ],
+    "files": [
+      "data/DEN-FI/TGXEAR TANTALUS.txt"
+    ]
+  },
+  {
     "id": "tgxear_totem",
     "brand": "TGXEAR",
     "model": "Totem",
@@ -114110,6 +114233,31 @@
     ],
     "files": [
       "data/PAUL WASABII/TIGERISM ZEBRA.txt"
+    ]
+  },
+  {
+    "id": "timeear_blossoms",
+    "brand": "TimeEar",
+    "model": "Blossoms",
+    "variant": "",
+    "year": 2025,
+    "price_usd": 35,
+    "driver_type": "DD",
+    "driver_config": "1DD",
+    "impedance": 32,
+    "sensitivity": 110,
+    "connector": "2-pin",
+    "form_factor": "IEM",
+    "tags": [
+      "Balanced",
+      "Punchy Bass",
+      "Smooth",
+      "Vocal-Focused",
+      "Budget"
+    ],
+    "files": [
+      "data/SOUNDCHECK39/TIMEEAR BLOSSOMS.txt",
+      "data/SOUNDCHECK39/TIMEEAR BLOSSOMS VER2.txt"
     ]
   },
   {
@@ -122925,6 +123073,32 @@
     ]
   },
   {
+    "id": "vortex_reference",
+    "brand": "Vortex",
+    "model": "Reference",
+    "variant": "",
+    "year": 2026,
+    "price_usd": 3300,
+    "driver_type": "Hybrid",
+    "driver_config": "2DD+2MEMS",
+    "impedance": 23,
+    "sensitivity": 102,
+    "connector": "2-pin",
+    "form_factor": "IEM",
+    "tags": [
+      "Detailed",
+      "Good-Imaging",
+      "Resolving",
+      "Technical",
+      "V-Shaped",
+      "Wide-Stage",
+      "Flagship"
+    ],
+    "files": [
+      "data/JOYCES REVIEW/VORTEX REFERENCE.txt"
+    ]
+  },
+  {
     "id": "vsonic_ares",
     "brand": "Vsonic",
     "model": "Ares",
@@ -125981,6 +126155,31 @@
     ]
   },
   {
+    "id": "yincrow_rw_4000",
+    "brand": "Yincrow",
+    "model": "RW-4000",
+    "variant": "",
+    "year": 2025,
+    "price_usd": 350,
+    "driver_type": "DD",
+    "driver_config": "1DD",
+    "impedance": 32,
+    "sensitivity": 115,
+    "connector": "MMCX",
+    "form_factor": "Earbuds (Wired)",
+    "tags": [
+      "Detailed",
+      "Smooth",
+      "Sub-Bass",
+      "Warm",
+      "Wide-Stage",
+      "Mid-Tier"
+    ],
+    "files": [
+      "data/EARPHONES ARCHIVE/YINCROW RW-4000.txt"
+    ]
+  },
+  {
     "id": "yincrow_rw_9",
     "brand": "Yincrow",
     "model": "RW-9",
@@ -127209,8 +127408,31 @@
     ]
   },
   {
+    "id": "zisin_336",
+    "brand": "ZiSin",
+    "model": "336",
+    "variant": "",
+    "year": 2025,
+    "price_usd": 260,
+    "driver_type": "Hybrid",
+    "driver_config": "1DD+2BA",
+    "impedance": 11,
+    "sensitivity": 127,
+    "connector": "2-pin",
+    "form_factor": "IEM",
+    "tags": [
+      "Balanced",
+      "Detailed",
+      "Smooth",
+      "Mid-Tier"
+    ],
+    "files": [
+      "data/JAYTISS/ZISIN 336.txt"
+    ]
+  },
+  {
     "id": "zisin_340",
-    "brand": "Zisin",
+    "brand": "ZiSin",
     "model": "340",
     "variant": "",
     "year": 2024,
