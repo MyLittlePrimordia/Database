@@ -9505,6 +9505,31 @@
     ]
   },
   {
+    "id": "astrotec_am850_mkii",
+    "brand": "Astrotec",
+    "model": "AM850",
+    "variant": "MKII",
+    "year": 2022,
+    "price_usd": 170,
+    "driver_type": "DD",
+    "driver_config": "1DD",
+    "impedance": 32,
+    "sensitivity": 106,
+    "connector": "MMCX",
+    "form_factor": "IEM",
+    "tags": [
+      "Bright",
+      "Detailed",
+      "Neutral",
+      "Resolving",
+      "Technical",
+      "Mid-Tier"
+    ],
+    "files": [
+      "data/EARPHONES ARCHIVE/ASTROTEC AM850 MK2 (NEUTRAL (BLACK) NOZZLE).txt"
+    ]
+  },
+  {
     "id": "astrotec_am90",
     "brand": "Astrotec",
     "model": "AM90",
@@ -17738,6 +17763,31 @@
     ],
     "files": [
       "data/HANGOUT.AUDIO/BGVP DS1 PRO.txt"
+    ]
+  },
+  {
+    "id": "bgvp_dx6",
+    "brand": "BGVP",
+    "model": "DX6",
+    "variant": "",
+    "year": 2022,
+    "price_usd": 90,
+    "driver_type": "DD",
+    "driver_config": "1DD",
+    "impedance": 32,
+    "sensitivity": 122,
+    "connector": "MMCX",
+    "form_factor": "Earbuds (Wired)",
+    "tags": [
+      "Balanced",
+      "Detailed",
+      "Resolving",
+      "Technical",
+      "Wide-Stage",
+      "Budget"
+    ],
+    "files": [
+      "data/IANFANN/BGVP DX6.txt"
     ]
   },
   {
@@ -80326,10 +80376,33 @@
     ]
   },
   {
+    "id": "open_audio_witch",
+    "brand": "Open Audio",
+    "model": "Witch",
+    "variant": "",
+    "year": 2020,
+    "price_usd": 90,
+    "driver_type": "Hybrid",
+    "driver_config": "1DD+1BA",
+    "impedance": 20,
+    "sensitivity": 110,
+    "connector": "2-pin",
+    "form_factor": "IEM",
+    "tags": [
+      "Detailed",
+      "Punchy Bass",
+      "V-Shaped",
+      "Budget"
+    ],
+    "files": [
+      "data/BUKANAUDIOPHILE/OPEN AUDIO WITCH.txt"
+    ]
+  },
+  {
     "id": "open_audio_witch_pro",
     "brand": "Open Audio",
-    "model": "Witch Pro",
-    "variant": "",
+    "model": "Witch",
+    "variant": "Pro",
     "year": 2023,
     "price_usd": 90,
     "driver_type": "Hybrid",
@@ -80341,8 +80414,8 @@
     "tags": [
       "Balanced",
       "Detailed",
-      "Budget",
-      "Smooth"
+      "Smooth",
+      "Budget"
     ],
     "files": [
       "data/DUCBLOKE/OPENAUDIO WITCH PRO.txt"
@@ -115555,6 +115628,31 @@
     ],
     "files": [
       "data/PAUL WASABII/TKZK WAVE.txt"
+    ]
+  },
+  {
+    "id": "toneking_dendroaspis_viridis",
+    "brand": "Toneking",
+    "model": "Dendroaspis Viridis",
+    "variant": "",
+    "year": 2020,
+    "price_usd": 120,
+    "driver_type": "DD",
+    "driver_config": "1DD",
+    "impedance": 32,
+    "sensitivity": 113,
+    "connector": "MMCX",
+    "form_factor": "Earbuds (Wired)",
+    "tags": [
+      "Bright",
+      "Detailed",
+      "Resolving",
+      "Technical",
+      "Wide-Stage",
+      "Mid-Tier"
+    ],
+    "files": [
+      "data/LOWN-FI/TONEKING DENDROASPIS VIRIDIS.txt"
     ]
   },
   {
