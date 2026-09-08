@@ -43776,6 +43776,31 @@
     ]
   },
   {
+    "id": "fostex_t60rp_50th_anniversary",
+    "brand": "Fostex",
+    "model": "T60RP",
+    "variant": "50th Anniversary",
+    "year": 2023,
+    "price_usd": 400,
+    "driver_type": "Planar",
+    "driver_config": "1Planar",
+    "impedance": 50,
+    "sensitivity": 92,
+    "connector": "Detachable Cable",
+    "form_factor": "Over-Ear Headphones (Wired)",
+    "tags": [
+      "Balanced",
+      "Detailed",
+      "Good-Imaging",
+      "Limited-Edition",
+      "Resolving",
+      "Mid-Tier"
+    ],
+    "files": [
+      "data/AUDIOAMIGO/FOSTEX T60RP ANNIVERSARY.txt"
+    ]
+  },
+  {
     "id": "fostex_t60rp_modhouse_argon",
     "brand": "Fostex",
     "model": "T60RP",
@@ -55560,6 +55585,31 @@
     ]
   },
   {
+    "id": "jbl_everest_elite_750nc",
+    "brand": "JBL",
+    "model": "Everest",
+    "variant": "Elite 750NC",
+    "year": 2017,
+    "price_usd": 300,
+    "driver_type": "DD",
+    "driver_config": "1DD",
+    "impedance": 16,
+    "sensitivity": 92,
+    "connector": "Bluetooth",
+    "form_factor": "Wireless Over-Ear Headphones",
+    "tags": [
+      "Detailed",
+      "Fun",
+      "Punchy Bass",
+      "Warm",
+      "Mid-Tier"
+    ],
+    "files": [
+      "data/EARPHONES ARCHIVE/JBL EVEREST ELITE 750NC (ANC OFF).txt",
+      "data/EARPHONES ARCHIVE/JBL EVEREST ELITE 750NC (ANC ON).txt"
+    ]
+  },
+  {
     "id": "jbl_free",
     "brand": "JBL",
     "model": "Free",
@@ -60324,6 +60374,56 @@
     ],
     "files": [
       "data/BOIZOFF/KENNERTON ROGNIR MK2.txt"
+    ]
+  },
+  {
+    "id": "kennerton_thror",
+    "brand": "Kennerton",
+    "model": "Thror",
+    "variant": "",
+    "year": 2018,
+    "price_usd": 3000,
+    "driver_type": "Planar",
+    "driver_config": "1Planar",
+    "impedance": 35,
+    "sensitivity": 100,
+    "connector": "Detachable Cable",
+    "form_factor": "Over-Ear Headphones (Wired)",
+    "tags": [
+      "Flagship",
+      "Balanced",
+      "Detailed",
+      "Resolving",
+      "Good-Imaging",
+      "Wide-Stage"
+    ],
+    "files": [
+      "data/HANGOUT.AUDIO/KENNERTON THROR.txt"
+    ]
+  },
+  {
+    "id": "kennerton_thror_mkii",
+    "brand": "Kennerton",
+    "model": "Thror",
+    "variant": "MKII",
+    "year": 2026,
+    "price_usd": 3500,
+    "driver_type": "Planar",
+    "driver_config": "1Planar",
+    "impedance": 35,
+    "sensitivity": 100,
+    "connector": "Detachable Cable",
+    "form_factor": "Over-Ear Headphones (Wired)",
+    "tags": [
+      "Flagship",
+      "Balanced",
+      "Detailed",
+      "Resolving",
+      "Good-Imaging",
+      "Wide-Stage"
+    ],
+    "files": [
+      "data/BOIZOFF/KENNERTON THROR MK2.txt"
     ]
   },
   {
