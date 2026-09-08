@@ -10981,6 +10981,31 @@
     ]
   },
   {
+    "id": "audio_technica_ath_a1000z",
+    "brand": "Audio-Technica",
+    "model": "ATH-A1000Z",
+    "variant": "",
+    "year": 2015,
+    "price_usd": 400,
+    "driver_type": "DD",
+    "driver_config": "1DD",
+    "impedance": 44,
+    "sensitivity": 101,
+    "connector": "Fixed Cable",
+    "form_factor": "Over-Ear Headphones (Wired)",
+    "tags": [
+      "Mid-Tier",
+      "Balanced",
+      "Detailed",
+      "Resolving",
+      "Good-Imaging",
+      "Smooth"
+    ],
+    "files": [
+      "data/DEN-FI/AUDIO TECHNICA ATH-A1000Z.txt"
+    ]
+  },
+  {
     "id": "audio_technica_ath_a2000z",
     "brand": "Audio-Technica",
     "model": "ATH-A2000Z",
@@ -11100,6 +11125,30 @@
     ],
     "files": [
       "data/INNERFIDELITY/AUDIO TECHNICA ATH A900X.txt"
+    ]
+  },
+  {
+    "id": "audio_technica_ath_a990z",
+    "brand": "Audio-Technica",
+    "model": "ATH-A990Z",
+    "variant": "",
+    "year": 2015,
+    "price_usd": 220,
+    "driver_type": "DD",
+    "driver_config": "1DD",
+    "impedance": 44,
+    "sensitivity": 100,
+    "connector": "Fixed Cable",
+    "form_factor": "Over-Ear Headphones (Wired)",
+    "tags": [
+      "Mid-Tier",
+      "Balanced",
+      "Smooth",
+      "Warm",
+      "Detailed"
+    ],
+    "files": [
+      "data/HANGOUT.AUDIO/ATH-A990Z.txt"
     ]
   },
   {
@@ -14880,6 +14929,31 @@
     "files": [
       "data/INNERFIDELITY/BANG & OLUFSEN BEOPLAY H6.txt",
       "data/RTINGS/BANG & OLUFSEN BEOPLAY H6.txt"
+    ]
+  },
+  {
+    "id": "bang_olufsen_beoplay_h7",
+    "brand": "Bang & Olufsen",
+    "model": "Beoplay H7",
+    "variant": "",
+    "year": 2015,
+    "price_usd": 450,
+    "driver_type": "DD",
+    "driver_config": "1DD",
+    "impedance": 20,
+    "sensitivity": 102,
+    "connector": "Bluetooth",
+    "form_factor": "Wireless Over-Ear Headphones",
+    "tags": [
+      "Balanced",
+      "Detailed",
+      "Good-Imaging",
+      "Resolving",
+      "Smooth",
+      "Mid-Tier"
+    ],
+    "files": [
+      "data/HANGOUT.AUDIO/BEOPLAY H7.txt"
     ]
   },
   {
@@ -57526,6 +57600,31 @@
     ]
   },
   {
+    "id": "jomo_audio_303h_fairlady",
+    "brand": "Jomo Audio",
+    "model": "303H Fairlady",
+    "variant": "",
+    "year": 2023,
+    "price_usd": 400,
+    "driver_type": "Hybrid",
+    "driver_config": "1DD+2BA",
+    "impedance": 6,
+    "sensitivity": 106,
+    "connector": "2-pin",
+    "form_factor": "IEM",
+    "tags": [
+      "Mid-Tier",
+      "V-Shaped",
+      "Punchy Bass",
+      "Detailed",
+      "Resolving",
+      "Fun"
+    ],
+    "files": [
+      "data/EARPHONES ARCHIVE/JOMO AUDIO 303H FAIRLADY.txt"
+    ]
+  },
+  {
     "id": "jomo_audio_flamenco",
     "brand": "Jomo Audio",
     "model": "Flamenco",
@@ -70030,6 +70129,31 @@
       "data/HANGOUT.AUDIO/LZ A2 PRO.txt",
       "data/HAWAII BAY BOY/LZ HIFI A2 PRO.txt",
       "data/HI END PORTABLE/LZ HI FI AUDIO A2 PRO.txt"
+    ]
+  },
+  {
+    "id": "lz_a4",
+    "brand": "LZ",
+    "model": "A4",
+    "variant": "",
+    "year": 2016,
+    "price_usd": 195,
+    "driver_type": "Hybrid",
+    "driver_config": "1DD+2BA",
+    "impedance": 16,
+    "sensitivity": 110,
+    "connector": "MMCX",
+    "form_factor": "IEM",
+    "tags": [
+      "Mid-Tier",
+      "Balanced",
+      "Detailed",
+      "Resolving",
+      "Good-Imaging",
+      "Wide-Stage"
+    ],
+    "files": [
+      "data/SOUNDIGNITY/LZ A4.txt"
     ]
   },
   {
@@ -123395,6 +123519,30 @@
     ]
   },
   {
+    "id": "venture_electronics_monk",
+    "brand": "Venture Electronics",
+    "model": "Monk",
+    "variant": "",
+    "year": 2015,
+    "price_usd": 5,
+    "driver_type": "DD",
+    "driver_config": "1DD",
+    "impedance": 32,
+    "sensitivity": 112,
+    "connector": "Fixed Cable",
+    "form_factor": "Earbuds (Wired)",
+    "tags": [
+      "Budget",
+      "Balanced",
+      "Vocal-Focused",
+      "Smooth",
+      "Relaxed"
+    ],
+    "files": [
+      "data/EARPHONES ARCHIVE/VENTURE ELECTRONICS VE MONK.txt"
+    ]
+  },
+  {
     "id": "venture_electronics_monk_a1",
     "brand": "Venture Electronics",
     "model": "Monk",
@@ -126743,6 +126891,30 @@
     ]
   },
   {
+    "id": "yamaha_hph_mt5",
+    "brand": "Yamaha",
+    "model": "HPH-MT5",
+    "variant": "",
+    "year": 2017,
+    "price_usd": 100,
+    "driver_type": "DD",
+    "driver_config": "1DD",
+    "impedance": 51,
+    "sensitivity": 100,
+    "connector": "Detachable Cable",
+    "form_factor": "Over-Ear Headphones (Wired)",
+    "tags": [
+      "Mid-Tier",
+      "Balanced",
+      "Detailed",
+      "Resolving",
+      "Studio-Monitoring"
+    ],
+    "files": [
+      "data/LISTENER/YAMAHA HPH-MT5.txt"
+    ]
+  },
+  {
     "id": "yamaha_hph_mt8",
     "brand": "Yamaha",
     "model": "HPH-MT8",
@@ -127697,6 +127869,31 @@
     "files": [
       "data/HEADPHONE.COM LEGACY/YUIN PK2.txt",
       "data/INNERFIDELITY/YUIN PK2.txt"
+    ]
+  },
+  {
+    "id": "yuin_pk3",
+    "brand": "Yuin",
+    "model": "PK3",
+    "variant": "",
+    "year": 2007,
+    "price_usd": 35,
+    "driver_type": "DD",
+    "driver_config": "1DD",
+    "impedance": 32,
+    "sensitivity": 120,
+    "connector": "Fixed Cable",
+    "form_factor": "Earbuds (Wired)",
+    "tags": [
+      "Budget",
+      "Warm",
+      "Punchy Bass",
+      "Smooth",
+      "Relaxed",
+      "Vocal-Focused"
+    ],
+    "files": [
+      "data/UNHEARD LAB/YUIN PK3.txt"
     ]
   },
   {
