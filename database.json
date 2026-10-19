@@ -128554,30 +128554,6 @@
     ]
   },
   {
-    "id": "vzonis_dbb_03",
-    "brand": "Vzonis",
-    "model": "DBB-03",
-    "variant": "",
-    "year": 2026,
-    "price_usd": 40,
-    "driver_type": "Tribrid",
-    "driver_config": "1DD+1BA+1BC",
-    "impedance": 16,
-    "sensitivity": 106,
-    "connector": "2-pin",
-    "form_factor": "IEM",
-    "tags": [
-      "Balanced",
-      "Detailed",
-      "Good-Imaging",
-      "Punchy Bass",
-      "Budget"
-    ],
-    "files": [
-      "data/BOIZOFF/VZONIS DDB-03.txt"
-    ]
-  },
-  {
     "id": "vzonis_ddb_03",
     "brand": "Vzonis",
     "model": "DDB-03",
